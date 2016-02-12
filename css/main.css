@@ -23,12 +23,14 @@ body {
 
 h1{
   font-family: 'Oswald', sans-serif;
-  color: white;
+  color: #ef6283;
+  font-size: 3rem;
 }
 
 h2 {
-  font-family: 'Pacifico', cursive;
+  font-family: 'Oswald', cursive;
   color: #a11d21;
+  font-size: 5rem;
 }
 
 h3 {
