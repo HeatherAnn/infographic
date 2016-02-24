@@ -30,7 +30,7 @@ h1{
 h2 {
   font-family: 'Oswald', cursive;
   color: #a11d21;
-  xfont-size: 5rem;
+  font-size: 5rem;
 }
 
 h3 {
@@ -44,5 +44,10 @@ p {
 
 .faces {
   background-color: #ef6283;
+  border-radius: 20px;
+}
+
+.items {
+  background-color: #f7a6ac;
   border-radius: 20px;
 }
