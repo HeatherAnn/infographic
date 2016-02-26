@@ -40,6 +40,7 @@ h3 {
 p {
   font-family: 'Oswald', sans-serif;
   color: #fbd4d4;
+  font-size: 1rem;
 }
 
 .faces {
@@ -50,4 +51,5 @@ p {
 .items {
   background-color: #f7a6ac;
   border-radius: 20px;
+  text-align: center;
 }
